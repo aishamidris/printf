@@ -1,4 +1,4 @@
-#include "main.h"
+#include "ons_0x03.c  functions_0x06.c  functions_0x09.c  _printf.cin.h"
 
 /****************** PRINT POINTER ******************/
 /**

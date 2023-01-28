@@ -1,1 +1,1 @@
-ithis is 0x11. C - printf
+this is a cllaborative project between Aisha and Ishmael on printf functions
