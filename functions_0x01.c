@@ -1,8 +1,5 @@
 #include "main.h"
 
-ns_0x02.c  functions_0x05.c  functions_0x08.c  main.h                                      
-
-functions_0x03.c  functions_0x06.c  functions_0x09.c  _printf.c
 /************************* PRINT UNSIGNED NUMBER *************************/
 /**
  * print_unsigned - Prints an unsigned number
